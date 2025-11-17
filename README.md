@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gaiuskthomas
+- 👋 Hi, I’m                                             GaiusKThomas
 - 👀 I’m interested in coding, sports, music
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on ...
